@@ -5,7 +5,8 @@ This Streamlit project allows users to easily upload their datasets and perform 
 
 ## Key features:
 
-### Upload Datasets:  Users can upload datasets in CSV or Excel format for quick analysis.
+### Upload Datasets:
+Users can upload datasets in CSV or Excel format for quick analysis.
 
 ### Data Overview: 
 Instantly see a summary of the dataset, including basic statistics and missing values.
