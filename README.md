@@ -1,3 +1,4 @@
+## Streamlit App
 ## Interactive EDA with Plotly Express:
 
 This Streamlit project allows users to easily upload their datasets and perform exploratory data analysis (EDA) with a variety of interactive visualizations. By leveraging the power of Plotly Express, the app generates dynamic plots that help users uncover patterns, trends, and insights in their data.
